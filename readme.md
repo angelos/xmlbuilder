@@ -1,5 +1,7 @@
+# ESXMLBuilder - Embarrassingly Simple XML builder
+
 ## What's this?
-An embarrassingly simple Java XML writer, inspired by the Groovy XmlBuilder. Not much better than generating by hand, but at least it saves you having to close all tags.
+An embarrassingly simple Java XML builder, inspired by the Groovy XmlBuilder. Not much better than generating by hand, but at least it saves you having to close all tags.
 
 ## How do I use it?
 Just drop the file into your project, and have fun! See the [tests](test/net/luminis/xmlbuilder/XmlTest.java) for some inspiration on how to use it.
